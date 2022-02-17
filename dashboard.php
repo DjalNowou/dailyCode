@@ -1,6 +1,10 @@
 <?php
 
-    class YO  {
+    class YO {
+    
+        public method(){
+            
+        }
         
     }
 
