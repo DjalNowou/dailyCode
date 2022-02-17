@@ -2,10 +2,6 @@
 
     class YO {
     
-        public method(){
-            
-        }
+     
         
     }
-
-?>
